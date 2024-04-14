@@ -1,0 +1,190 @@
+.logo-mixi-tt-2-icon1 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 90px;
+  height: 54px;
+  position: absolute;
+  top: 17px;
+  left: 21px;
+}
+
+.trang-ng-k-child {
+  background-color: var(--color-gainsboro-200);
+  border: 7px solid var(--color-teal-100);
+  box-sizing: border-box;
+  width: 747px;
+  height: 616px;
+  position: absolute;
+  top: 65px;
+  left: calc(50% - 374px);
+}
+
+.ng-k {
+  font-size: var(--font-size-25xl);
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 143px;
+  display: flex;
+  position: absolute;
+  top: calc(50% - 321px);
+  left: calc(50% - 297px);
+}
+
+.ng-nhpframe-137-child {
+  z-index: 0;
+  width: 711px;
+  height: 52px;
+  display: none;
+  position: relative;
+}
+
+.ng-nhp3, .ng-nhpframe-137 {
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+
+.ng-nhp3 {
+  z-index: 1;
+  flex-shrink: 0;
+  width: 602px;
+  height: 36px;
+  display: none;
+  top: 8px;
+  left: 54px;
+  margin: 0 !important;
+}
+
+.ng-nhpframe-137 {
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  flex-direction: column;
+  gap: 10px;
+  width: 663px;
+  height: 47px;
+  display: flex;
+  top: 526px;
+  left: 413px;
+}
+
+.trang-ng-k-child1, .trang-ng-k-child2, .trang-ng-k-child3, .trang-ng-k-inner, .trang-ng-k-item {
+  background-color: var(--color-gainsboro-200);
+  border: 2px solid var(--color-teal-100);
+  box-sizing: border-box;
+  width: 672px;
+  height: 48px;
+  position: absolute;
+  top: calc(50% - 212px);
+  left: calc(50% - 332px);
+}
+
+.trang-ng-k-child1, .trang-ng-k-child2, .trang-ng-k-child3, .trang-ng-k-inner {
+  top: calc(50% - 144px);
+}
+
+.trang-ng-k-child1, .trang-ng-k-child2, .trang-ng-k-child3 {
+  top: calc(50% - 76px);
+}
+
+.trang-ng-k-child2, .trang-ng-k-child3 {
+  top: calc(50% - 8px);
+}
+
+.trang-ng-k-child3 {
+  top: calc(50% + 60px);
+}
+
+.text1 {
+  font-size: var(--font-size-25xl);
+  color: var(--color-black);
+  justify-content: center;
+  align-items: center;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  top: calc(50% - 202px);
+  left: calc(50% - 275px);
+}
+
+.email, .mt-khu1, .s-in-thoi, .tn-ng-nhp1, .xc-nhn-li {
+  text-align: left;
+  align-items: center;
+  width: 346px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  top: calc(50% - 204px);
+  left: calc(50% - 324px);
+}
+
+.email, .mt-khu1, .s-in-thoi, .xc-nhn-li {
+  top: calc(50% - 135px);
+}
+
+.mt-khu1, .s-in-thoi, .xc-nhn-li {
+  top: calc(50% - 68px);
+}
+
+.mt-khu1, .xc-nhn-li {
+  height: 32px;
+  top: calc(50% - 1px);
+}
+
+.xc-nhn-li {
+  height: 31px;
+  top: calc(50% + 67px);
+}
+
+.ng-nhp4 {
+  color: var(--color-orangered);
+}
+
+.c-ti-khon-container1 {
+  width: 100%;
+}
+
+.c-ti-khon-container {
+  font-size: var(--font-size-mid);
+  cursor: pointer;
+  align-items: center;
+  width: 422px;
+  height: 32px;
+  display: flex;
+  position: absolute;
+  top: 593px;
+  left: calc(50% - 186px);
+}
+
+.ng-k2 {
+  position: relative;
+}
+
+.ng-k1 {
+  background-color: var(--color-crimson);
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 672px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  top: 529px;
+  left: 413px;
+}
+
+.trang-ng-k {
+  background-color: var(--color-white);
+  border: 11px solid var(--color-teal-100);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-teal-100);
+  font-family: var(--font-inter);
+  width: 100%;
+  height: 736px;
+  position: relative;
+}
+/*# sourceMappingURL=t-r-a-n-g-n-g-k.2d19edf2.css.map */

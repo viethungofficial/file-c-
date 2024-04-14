@@ -1,0 +1,666 @@
+.group-child28 {
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 345px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.v-chng-ti3 {
+  letter-spacing: .01em;
+}
+
+.v-chng-ti2 {
+  margin-block: 0 2px;
+}
+
+.website-chnh-thc1 {
+  font-size: var(--font-size-lgi);
+  letter-spacing: -.01em;
+  margin: 0;
+  font-weight: 300;
+  line-height: 121.06%;
+}
+
+.v-chng-ti-container1 {
+  color: var(--color-black);
+  font-size: var(--font-size-6xl);
+  width: 371px;
+  height: 292px;
+  display: inline-block;
+  position: absolute;
+  top: 53px;
+  left: 55px;
+}
+
+.thng-tin3 {
+  margin-block: 0 11px;
+}
+
+.thng-tin2 {
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  width: 350px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 53px;
+  left: 725px;
+}
+
+.blank-line193 {
+  font-size: var(--font-size-lgi);
+  margin-block: 0 2px;
+}
+
+.mi-thc-mc1 {
+  font-weight: 300;
+}
+
+.fanpage-v-instagram2 {
+  margin: 0;
+}
+
+.mi-thc-mc-container1 {
+  letter-spacing: .03em;
+  color: var(--color-black);
+  line-height: 121.25%;
+  font-size: var(--font-size-6xl);
+  width: 395px;
+  height: 296px;
+  display: inline-block;
+  position: absolute;
+  top: 58px;
+  left: 990px;
+}
+
+.blank-line194 {
+  font-size: var(--font-size-8xl);
+  margin: 0;
+  font-weight: 300;
+}
+
+.danh-mc-sn-container1, .h-tr1 {
+  color: var(--color-black);
+  font-size: var(--font-size-6xl);
+  width: 350px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 53px;
+  left: 418px;
+}
+
+.h-tr1 {
+  left: 993px;
+}
+
+.o-ba-l9 {
+  margin-bottom: 10px;
+}
+
+.o-ba-l8 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-9xl);
+  margin: 0;
+}
+
+.o-ba-l-container7 {
+  width: 302px;
+  height: 35px;
+  font-weight: 300;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper16, .o-ba-l-frame {
+  width: 111px;
+  height: 26px;
+  position: absolute;
+  top: 0;
+  left: -9px;
+  overflow: hidden;
+}
+
+.frame-wrapper16 {
+  cursor: pointer;
+  width: 108px;
+  top: 145px;
+  left: 426px;
+}
+
+.frame-wrapper17, .lu-nim-mixi-frame {
+  width: 198px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper17 {
+  cursor: pointer;
+  width: 193px;
+  top: 187px;
+  left: 417px;
+}
+
+.frame-wrapper18, .o-refund-gaming-frame {
+  width: 214px;
+  height: 28px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper18 {
+  cursor: pointer;
+  top: 229px;
+  left: 417px;
+}
+
+.frame-wrapper19, .o-csgo-frame {
+  width: 123px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper19 {
+  cursor: pointer;
+  top: 271px;
+  left: 417px;
+}
+
+.chnh-sch-bo-container1, .gii-thiu2, .iu-khon2, .sitemap2 {
+  width: 295px;
+  height: 35px;
+  font-weight: 300;
+  display: inline-block;
+  position: absolute;
+  top: 103px;
+  left: 717px;
+}
+
+.chnh-sch-bo-container1, .iu-khon2, .sitemap2 {
+  top: 145px;
+}
+
+.iu-khon2, .sitemap2 {
+  top: 187px;
+}
+
+.sitemap2 {
+  top: 229px;
+}
+
+.frame-wrapper20, .o-mixi-frame {
+  width: 110px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper20 {
+  cursor: pointer;
+  top: 103px;
+  left: 418px;
+}
+
+.upward-arrow-icon1 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 271px;
+  left: 1360px;
+}
+
+.group-container, .rectangle-parent27, .trang-ca-hng-inner {
+  width: 1440px;
+  height: 354px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.group-container, .trang-ca-hng-inner {
+  height: 345px;
+  overflow: hidden;
+}
+
+.trang-ca-hng-inner {
+  font-size: var(--font-size-2xl);
+  color: var(--color-teal-200);
+  font-family: var(--font-inter);
+  top: 1030px;
+}
+
+.ca-hng, .danh-mc-sn1 {
+  font-size: var(--font-size-xl);
+  align-items: center;
+  width: 100px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  top: 99px;
+  left: 106px;
+}
+
+.danh-mc-sn1 {
+  font-size: var(--font-size-sm);
+  width: 157px;
+  height: 22px;
+  top: 168px;
+  left: 107px;
+}
+
+.trang-ca-hng-child {
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24px;
+  height: 2px;
+  position: absolute;
+  top: 198px;
+  left: 106px;
+}
+
+.o-pubg5 {
+  align-items: center;
+  width: 94px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.o-ba-l-wrapper1, .o-csgo-wrapper1, .o-mixi-wrapper1, .o-pubg-container {
+  cursor: pointer;
+  color: var(--color-teal-200);
+  width: 68px;
+  height: 30px;
+  position: absolute;
+  top: 346px;
+  left: 107px;
+  overflow: hidden;
+}
+
+.o-ba-l-wrapper1, .o-csgo-wrapper1, .o-mixi-wrapper1 {
+  top: 303px;
+}
+
+.o-ba-l-wrapper1, .o-csgo-wrapper1 {
+  top: 260px;
+}
+
+.o-ba-l-wrapper1 {
+  top: 217px;
+}
+
+.o-refund-gaming2 {
+  align-items: center;
+  width: 220px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.o-refund-gaming-wrapper1 {
+  cursor: pointer;
+  color: var(--color-teal-200);
+  width: 127px;
+  height: 30px;
+  position: absolute;
+  top: 389px;
+  left: 107px;
+  overflow: hidden;
+}
+
+.lu-nim-mixi10 {
+  align-items: center;
+  width: 162px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.lu-nim-mixi-wrapper1 {
+  cursor: pointer;
+  color: var(--color-teal-200);
+  width: 114px;
+  height: 30px;
+  position: absolute;
+  top: 432px;
+  left: 107px;
+  overflow: hidden;
+}
+
+.group-child29 {
+  object-fit: cover;
+  width: 227px;
+  height: 305px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.o-ba-l11 {
+  margin-block: 0 3px;
+}
+
+.sn-phm {
+  font-size: var(--font-size-5xs);
+  color: var(--color-teal-200);
+  margin: 0;
+}
+
+.o-ba-l-container9 {
+  width: 100%;
+}
+
+.rectangle-parent28 {
+  cursor: pointer;
+  text-align: center;
+  width: 227px;
+  height: 342px;
+  position: absolute;
+  top: 168px;
+  left: 486px;
+}
+
+.o-pubg-8-container {
+  align-items: center;
+  width: 227px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  top: 315px;
+  left: 0;
+}
+
+.rectangle-parent29, .rectangle-parent30, .rectangle-parent31, .rectangle-parent32, .rectangle-parent33 {
+  cursor: pointer;
+  text-align: center;
+  width: 227px;
+  height: 342px;
+  position: absolute;
+  top: 540px;
+  left: 486px;
+}
+
+.rectangle-parent30, .rectangle-parent31, .rectangle-parent32, .rectangle-parent33 {
+  left: 729px;
+}
+
+.rectangle-parent31, .rectangle-parent32, .rectangle-parent33 {
+  left: 972px;
+}
+
+.rectangle-parent32, .rectangle-parent33 {
+  top: 168px;
+  left: 729px;
+}
+
+.rectangle-parent33 {
+  left: 972px;
+}
+
+.home1 {
+  justify-content: center;
+  align-items: center;
+  width: 233px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  top: -23px;
+  left: -86px;
+}
+
+.home-container {
+  overflow: hidden;
+}
+
+.frame-wrapper22, .frame-wrapper23, .frame-wrapper24, .home-container {
+  width: 61px;
+  height: 14px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper22, .frame-wrapper23 {
+  top: 8px;
+  left: 4px;
+}
+
+.frame-wrapper22 {
+  cursor: pointer;
+  width: 69px;
+  height: 34px;
+  display: none;
+  top: -9px;
+}
+
+.frame-wrapper21 {
+  width: 77px;
+  height: 29px;
+  display: none;
+  position: absolute;
+  top: 34px;
+  left: -1056px;
+}
+
+.group-child35 {
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-parent {
+  width: 72px;
+  height: 72px;
+  position: relative;
+}
+
+.menu1, .trang-ch1 {
+  display: flex;
+  position: absolute;
+}
+
+.menu1 {
+  text-align: center;
+  font-size: var(--font-size-mid);
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  top: 0;
+  left: 0;
+}
+
+.trang-ch1 {
+  font-size: var(--font-size-4xs);
+  cursor: pointer;
+  align-items: center;
+  width: 56px;
+  height: 14px;
+  top: 133px;
+  left: 107px;
+}
+
+.trang-ca-hng-item {
+  object-fit: contain;
+  width: 3px;
+  height: 8px;
+  position: absolute;
+  top: 135px;
+  left: 167px;
+}
+
+.ca-hng1 {
+  font-size: var(--font-size-3xs);
+  white-space: pre-wrap;
+  align-items: center;
+  width: 76px;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  top: 135px;
+  left: 165px;
+}
+
+.group-child36 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 89px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.logo-mixi-tt-1-icon1 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 89px;
+  height: 53px;
+  position: absolute;
+  top: 18px;
+  left: 17px;
+}
+
+.danh-mc-sn2 {
+  justify-content: center;
+  align-items: center;
+  width: 233px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  top: -15px;
+  left: -6px;
+}
+
+.danh-mc-sn-phm-container {
+  width: 221px;
+  height: 34px;
+  position: absolute;
+  top: 0;
+  left: -16px;
+  overflow: hidden;
+}
+
+.frame-wrapper25 {
+  color: var(--color-teal-200);
+  width: 189px;
+  height: 30px;
+  position: absolute;
+  top: 30px;
+  left: 454px;
+}
+
+.thng-bo1 {
+  justify-content: center;
+  align-items: center;
+  width: 233px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  top: -13px;
+  left: -55px;
+}
+
+.frame-icon, .thng-bo-container {
+  width: 123px;
+  height: 32px;
+  position: absolute;
+  top: 28px;
+  left: 720px;
+  overflow: hidden;
+}
+
+.frame-icon {
+  object-fit: cover;
+  width: 56px;
+  height: 56px;
+  top: 11px;
+  left: 1367px;
+}
+
+.male-user-icon1, .paper-bag-icon1 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  top: 24px;
+  left: 1293px;
+}
+
+.male-user-icon1 {
+  width: 50px;
+  height: 50px;
+  top: 17px;
+  left: 1355px;
+}
+
+.home2 {
+  justify-content: center;
+  align-items: center;
+  width: 170px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  top: -5px;
+  left: -60px;
+}
+
+.home-frame {
+  cursor: pointer;
+  width: 49px;
+  height: 21px;
+  position: absolute;
+  top: 35px;
+  left: 315px;
+  overflow: hidden;
+}
+
+.rectangle-parent34 {
+  text-align: center;
+  font-size: var(--font-size-mid);
+  width: 1440px;
+  height: 89px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.trang-ca-hng {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-arial);
+  width: 100%;
+  height: 1375px;
+  position: relative;
+}
+/*# sourceMappingURL=trang-ca-hng.44dd34a3.css.map */

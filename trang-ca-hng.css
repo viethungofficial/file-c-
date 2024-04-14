@@ -1,0 +1,624 @@
+.group-child28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 345px;
+}
+.v-chng-ti3 {
+  letter-spacing: 0.01em;
+}
+.v-chng-ti2 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.website-chnh-thc1 {
+  margin: 0;
+  font-size: var(--font-size-lgi);
+  letter-spacing: -0.01em;
+  line-height: 121.06%;
+  font-weight: 300;
+}
+.v-chng-ti-container1 {
+  position: absolute;
+  top: 53px;
+  left: 55px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 371px;
+  height: 292px;
+  font-size: var(--font-size-6xl);
+}
+.thng-tin3 {
+  margin-block-start: 0;
+  margin-block-end: 11px;
+}
+.thng-tin2 {
+  position: absolute;
+  top: 53px;
+  left: 725px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  color: var(--color-black);
+  width: 350px;
+  height: 40px;
+}
+.blank-line193 {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+  font-size: var(--font-size-lgi);
+}
+.mi-thc-mc1 {
+  font-weight: 300;
+}
+.fanpage-v-instagram2 {
+  margin: 0;
+}
+.mi-thc-mc-container1 {
+  position: absolute;
+  top: 58px;
+  left: 990px;
+  letter-spacing: 0.03em;
+  line-height: 121.25%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 395px;
+  height: 296px;
+  font-size: var(--font-size-6xl);
+}
+.blank-line194 {
+  margin: 0;
+  font-size: var(--font-size-8xl);
+  font-weight: 300;
+}
+.danh-mc-sn-container1,
+.h-tr1 {
+  position: absolute;
+  top: 53px;
+  left: 418px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 350px;
+  height: 40px;
+  font-size: var(--font-size-6xl);
+}
+.h-tr1 {
+  left: 993px;
+}
+.o-ba-l9 {
+  margin-bottom: 10px;
+}
+.o-ba-l8 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-9xl);
+}
+.o-ba-l-container7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 302px;
+  height: 35px;
+}
+.frame-wrapper16,
+.o-ba-l-frame {
+  position: absolute;
+  top: 0;
+  left: -9px;
+  width: 111px;
+  height: 26px;
+  overflow: hidden;
+}
+.frame-wrapper16 {
+  top: 145px;
+  left: 426px;
+  width: 108px;
+  cursor: pointer;
+}
+.frame-wrapper17,
+.lu-nim-mixi-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 198px;
+  height: 25px;
+  overflow: hidden;
+}
+.frame-wrapper17 {
+  top: 187px;
+  left: 417px;
+  width: 193px;
+  cursor: pointer;
+}
+.frame-wrapper18,
+.o-refund-gaming-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 214px;
+  height: 28px;
+  overflow: hidden;
+}
+.frame-wrapper18 {
+  top: 229px;
+  left: 417px;
+  cursor: pointer;
+}
+.frame-wrapper19,
+.o-csgo-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 123px;
+  height: 25px;
+  overflow: hidden;
+}
+.frame-wrapper19 {
+  top: 271px;
+  left: 417px;
+  cursor: pointer;
+}
+.chnh-sch-bo-container1,
+.gii-thiu2,
+.iu-khon2,
+.sitemap2 {
+  position: absolute;
+  top: 103px;
+  left: 717px;
+  font-weight: 300;
+  display: inline-block;
+  width: 295px;
+  height: 35px;
+}
+.chnh-sch-bo-container1,
+.iu-khon2,
+.sitemap2 {
+  top: 145px;
+}
+.iu-khon2,
+.sitemap2 {
+  top: 187px;
+}
+.sitemap2 {
+  top: 229px;
+}
+.frame-wrapper20,
+.o-mixi-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 110px;
+  height: 25px;
+  overflow: hidden;
+}
+.frame-wrapper20 {
+  top: 103px;
+  left: 418px;
+  cursor: pointer;
+}
+.upward-arrow-icon1 {
+  position: absolute;
+  top: 271px;
+  left: 1360px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-container,
+.rectangle-parent27,
+.trang-ca-hng-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 354px;
+}
+.group-container,
+.trang-ca-hng-inner {
+  height: 345px;
+  overflow: hidden;
+}
+.trang-ca-hng-inner {
+  top: 1030px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-teal-200);
+  font-family: var(--font-inter);
+}
+.ca-hng,
+.danh-mc-sn1 {
+  position: absolute;
+  top: 99px;
+  left: 106px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 100px;
+  height: 31px;
+}
+.danh-mc-sn1 {
+  top: 168px;
+  left: 107px;
+  font-size: var(--font-size-sm);
+  width: 157px;
+  height: 22px;
+}
+.trang-ca-hng-child {
+  position: absolute;
+  top: 198px;
+  left: 106px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24px;
+  height: 2px;
+}
+.o-pubg5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 94px;
+  height: 30px;
+}
+.o-ba-l-wrapper1,
+.o-csgo-wrapper1,
+.o-mixi-wrapper1,
+.o-pubg-container {
+  position: absolute;
+  top: 346px;
+  left: 107px;
+  width: 68px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-teal-200);
+}
+.o-ba-l-wrapper1,
+.o-csgo-wrapper1,
+.o-mixi-wrapper1 {
+  top: 303px;
+}
+.o-ba-l-wrapper1,
+.o-csgo-wrapper1 {
+  top: 260px;
+}
+.o-ba-l-wrapper1 {
+  top: 217px;
+}
+.o-refund-gaming2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 220px;
+  height: 30px;
+}
+.o-refund-gaming-wrapper1 {
+  position: absolute;
+  top: 389px;
+  left: 107px;
+  width: 127px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-teal-200);
+}
+.lu-nim-mixi10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 162px;
+  height: 30px;
+}
+.lu-nim-mixi-wrapper1 {
+  position: absolute;
+  top: 432px;
+  left: 107px;
+  width: 114px;
+  height: 30px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-teal-200);
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 227px;
+  height: 305px;
+  object-fit: cover;
+}
+.o-ba-l11 {
+  margin-block-start: 0;
+  margin-block-end: 3px;
+}
+.sn-phm {
+  margin: 0;
+  font-size: var(--font-size-5xs);
+  color: var(--color-teal-200);
+}
+.o-ba-l-container9 {
+  width: 100%;
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 168px;
+  left: 486px;
+  width: 227px;
+  height: 342px;
+  cursor: pointer;
+  text-align: center;
+}
+.o-pubg-8-container {
+  position: absolute;
+  top: 315px;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 227px;
+  height: 27px;
+}
+.rectangle-parent29,
+.rectangle-parent30,
+.rectangle-parent31,
+.rectangle-parent32,
+.rectangle-parent33 {
+  position: absolute;
+  top: 540px;
+  left: 486px;
+  width: 227px;
+  height: 342px;
+  cursor: pointer;
+  text-align: center;
+}
+.rectangle-parent30,
+.rectangle-parent31,
+.rectangle-parent32,
+.rectangle-parent33 {
+  left: 729px;
+}
+.rectangle-parent31,
+.rectangle-parent32,
+.rectangle-parent33 {
+  left: 972px;
+}
+.rectangle-parent32,
+.rectangle-parent33 {
+  top: 168px;
+  left: 729px;
+}
+.rectangle-parent33 {
+  left: 972px;
+}
+.home1 {
+  position: absolute;
+  top: -23px;
+  left: -86px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 233px;
+  height: 60px;
+}
+.home-container {
+  overflow: hidden;
+}
+.frame-wrapper22,
+.frame-wrapper23,
+.frame-wrapper24,
+.home-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 14px;
+}
+.frame-wrapper22,
+.frame-wrapper23 {
+  top: 8px;
+  left: 4px;
+}
+.frame-wrapper22 {
+  top: -9px;
+  width: 69px;
+  height: 34px;
+  display: none;
+  cursor: pointer;
+}
+.frame-wrapper21 {
+  position: absolute;
+  top: 34px;
+  left: -1056px;
+  width: 77px;
+  height: 29px;
+  display: none;
+}
+.group-child35 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 72px;
+  height: 72px;
+}
+.frame-parent {
+  width: 72px;
+  position: relative;
+  height: 72px;
+}
+.menu1,
+.trang-ch1 {
+  position: absolute;
+  display: flex;
+}
+.menu1 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.trang-ch1 {
+  top: 133px;
+  left: 107px;
+  font-size: var(--font-size-4xs);
+  align-items: center;
+  width: 56px;
+  height: 14px;
+  cursor: pointer;
+}
+.trang-ca-hng-item {
+  position: absolute;
+  top: 135px;
+  left: 167px;
+  width: 3px;
+  height: 8px;
+  object-fit: contain;
+}
+.ca-hng1 {
+  position: absolute;
+  top: 135px;
+  left: 165px;
+  font-size: var(--font-size-3xs);
+  display: flex;
+  white-space: pre-wrap;
+  align-items: center;
+  width: 76px;
+  height: 12px;
+}
+.group-child36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 89px;
+}
+.logo-mixi-tt-1-icon1 {
+  position: absolute;
+  top: 18px;
+  left: 17px;
+  width: 89px;
+  height: 53px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.danh-mc-sn2 {
+  position: absolute;
+  top: -15px;
+  left: -6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 233px;
+  height: 60px;
+}
+.danh-mc-sn-phm-container {
+  position: absolute;
+  top: 0;
+  left: -16px;
+  width: 221px;
+  height: 34px;
+  overflow: hidden;
+}
+.frame-wrapper25 {
+  position: absolute;
+  top: 30px;
+  left: 454px;
+  width: 189px;
+  height: 30px;
+  color: var(--color-teal-200);
+}
+.thng-bo1 {
+  position: absolute;
+  top: -13px;
+  left: -55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 233px;
+  height: 60px;
+}
+.frame-icon,
+.thng-bo-container {
+  position: absolute;
+  top: 28px;
+  left: 720px;
+  width: 123px;
+  height: 32px;
+  overflow: hidden;
+}
+.frame-icon {
+  top: 11px;
+  left: 1367px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.male-user-icon1,
+.paper-bag-icon1 {
+  position: absolute;
+  top: 24px;
+  left: 1293px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.male-user-icon1 {
+  top: 17px;
+  left: 1355px;
+  width: 50px;
+  height: 50px;
+}
+.home2 {
+  position: absolute;
+  top: -5px;
+  left: -60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 170px;
+  height: 30px;
+}
+.home-frame {
+  position: absolute;
+  top: 35px;
+  left: 315px;
+  width: 49px;
+  height: 21px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.rectangle-parent34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 89px;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.trang-ca-hng {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1375px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-arial);
+}

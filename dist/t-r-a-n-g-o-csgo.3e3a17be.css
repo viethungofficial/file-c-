@@ -1,0 +1,740 @@
+.group-child46 {
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 345px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.v-chng-ti7 {
+  letter-spacing: .01em;
+}
+
+.v-chng-ti6 {
+  margin-block: 0 2px;
+}
+
+.website-chnh-thc3 {
+  font-size: var(--font-size-lgi);
+  letter-spacing: -.01em;
+  margin: 0;
+  font-weight: 300;
+  line-height: 121.06%;
+}
+
+.v-chng-ti-container3 {
+  color: var(--color-black);
+  font-size: var(--font-size-6xl);
+  width: 371px;
+  height: 292px;
+  display: inline-block;
+  position: absolute;
+  top: 53px;
+  left: 55px;
+}
+
+.thng-tin7 {
+  margin-block: 0 11px;
+}
+
+.thng-tin6 {
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  width: 350px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 53px;
+  left: 725px;
+}
+
+.blank-line203 {
+  font-size: var(--font-size-lgi);
+  margin-block: 0 2px;
+}
+
+.mi-thc-mc3 {
+  font-weight: 300;
+}
+
+.fanpage-v-instagram6 {
+  margin: 0;
+}
+
+.mi-thc-mc-container3 {
+  letter-spacing: .03em;
+  color: var(--color-black);
+  line-height: 121.25%;
+  font-size: var(--font-size-6xl);
+  width: 395px;
+  height: 296px;
+  display: inline-block;
+  position: absolute;
+  top: 58px;
+  left: 990px;
+}
+
+.blank-line204 {
+  font-size: var(--font-size-8xl);
+  margin: 0;
+  font-weight: 300;
+}
+
+.danh-mc-sn-container3, .h-tr3 {
+  color: var(--color-black);
+  font-size: var(--font-size-6xl);
+  width: 350px;
+  height: 40px;
+  display: inline-block;
+  position: absolute;
+  top: 53px;
+  left: 418px;
+}
+
+.h-tr3 {
+  left: 993px;
+}
+
+.o-ba-l25 {
+  margin-bottom: 10px;
+}
+
+.o-ba-l24 {
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-9xl);
+  margin: 0;
+}
+
+.o-ba-l-container18 {
+  width: 302px;
+  height: 35px;
+  font-weight: 300;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper41, .o-ba-l-wrapper4 {
+  width: 111px;
+  height: 26px;
+  position: absolute;
+  top: 0;
+  left: -9px;
+  overflow: hidden;
+}
+
+.frame-wrapper41 {
+  cursor: pointer;
+  width: 108px;
+  top: 145px;
+  left: 426px;
+}
+
+.frame-wrapper42, .lu-nim-mixi-wrapper4 {
+  width: 198px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper42 {
+  cursor: pointer;
+  width: 193px;
+  top: 187px;
+  left: 417px;
+}
+
+.o-refund-gaming-wrapper4 {
+  width: 214px;
+  height: 28px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper43, .o-csgo13 {
+  cursor: pointer;
+  position: absolute;
+}
+
+.frame-wrapper43 {
+  width: 214px;
+  height: 28px;
+  top: 229px;
+  left: 417px;
+  overflow: hidden;
+}
+
+.o-csgo13 {
+  width: 302px;
+  height: 35px;
+  font-weight: 300;
+  display: inline-block;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper44, .o-csgo-wrapper4 {
+  width: 123px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper44 {
+  top: 271px;
+  left: 417px;
+}
+
+.chnh-sch-bo-container3, .gii-thiu6, .iu-khon6, .o-mixi20, .sitemap6 {
+  width: 295px;
+  height: 35px;
+  font-weight: 300;
+  display: inline-block;
+  position: absolute;
+  top: 103px;
+  left: 717px;
+}
+
+.chnh-sch-bo-container3, .iu-khon6, .o-mixi20, .sitemap6 {
+  top: 145px;
+}
+
+.iu-khon6, .o-mixi20, .sitemap6 {
+  top: 187px;
+}
+
+.o-mixi20, .sitemap6 {
+  top: 229px;
+}
+
+.o-mixi20 {
+  cursor: pointer;
+  width: 118px;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper45, .o-mixi-wrapper4 {
+  width: 110px;
+  height: 25px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.frame-wrapper45 {
+  top: 103px;
+  left: 418px;
+}
+
+.upward-arrow-icon3 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 271px;
+  left: 1360px;
+}
+
+.frame-wrapper39, .rectangle-parent44, .trang-o-csgo-inner {
+  width: 1440px;
+  height: 354px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper39, .trang-o-csgo-inner {
+  height: 345px;
+  overflow: hidden;
+}
+
+.trang-o-csgo-inner {
+  font-size: var(--font-size-2xl);
+  color: var(--color-teal-200);
+  font-family: var(--font-inter);
+  top: 1674px;
+}
+
+.danh-mc-sn5, .o-csgo15 {
+  font-size: var(--font-size-xl);
+  align-items: center;
+  width: 100px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  top: 99px;
+  left: 106px;
+}
+
+.danh-mc-sn5 {
+  font-size: var(--font-size-sm);
+  width: 157px;
+  height: 22px;
+  top: 168px;
+  left: 107px;
+}
+
+.trang-o-csgo-child {
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24px;
+  height: 2px;
+  position: absolute;
+  top: 198px;
+  left: 106px;
+}
+
+.o-pubg-wrapper1, .o-pubg8 {
+  height: 30px;
+  position: absolute;
+}
+
+.o-pubg8 {
+  align-items: center;
+  width: 94px;
+  display: flex;
+  top: 0;
+  left: 0;
+}
+
+.o-pubg-wrapper1 {
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-teal-200);
+  width: 68px;
+  top: 346px;
+  left: 107px;
+  overflow: hidden;
+}
+
+.o-refund-gaming7 {
+  align-items: center;
+  width: 220px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.o-refund-gaming-wrapper5 {
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-teal-200);
+  width: 143px;
+  height: 30px;
+  position: absolute;
+  top: 389px;
+  left: 107px;
+  overflow: hidden;
+}
+
+.lu-nim-mixi17 {
+  align-items: center;
+  width: 162px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.lu-nim-mixi-wrapper5 {
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-teal-200);
+  width: 136px;
+  height: 30px;
+  position: absolute;
+  top: 432px;
+  left: 107px;
+  overflow: hidden;
+}
+
+.trang-o-csgo-child1, .trang-o-csgo-child2, .trang-o-csgo-item {
+  object-fit: cover;
+  width: 262px;
+  height: 352px;
+  position: absolute;
+  top: 636px;
+  left: 486px;
+}
+
+.trang-o-csgo-child1, .trang-o-csgo-child2 {
+  top: 1104px;
+}
+
+.trang-o-csgo-child2 {
+  top: 168px;
+  left: 782px;
+}
+
+.group-child47, .trang-o-csgo-child3, .trang-o-csgo-child4, .trang-o-csgo-child5 {
+  object-fit: cover;
+  width: 262px;
+  height: 352px;
+  position: absolute;
+  top: 636px;
+  left: 782px;
+}
+
+.group-child47, .trang-o-csgo-child4, .trang-o-csgo-child5 {
+  top: 168px;
+  left: 1078px;
+}
+
+.group-child47, .trang-o-csgo-child5 {
+  top: 636px;
+}
+
+.group-child47 {
+  top: 0;
+  left: 0;
+}
+
+.o-csgo16, .o-logo-csgo-c071 {
+  margin-block: 0 8px;
+}
+
+.o-logo-csgo-c071 {
+  font-size: var(--font-size-mid);
+  color: var(--color-teal-200);
+}
+
+.p31 {
+  font-size: var(--font-size-lg);
+  margin: 0;
+}
+
+.o-csgo-o-container3 {
+  width: 261px;
+  height: 92px;
+  display: inline-block;
+  position: absolute;
+  top: 364px;
+  left: 0;
+}
+
+.rectangle-parent45 {
+  cursor: pointer;
+  text-align: center;
+  width: 262px;
+  height: 456px;
+  position: absolute;
+  top: 168px;
+  left: 486px;
+}
+
+.o-csgo-o-container4, .o-csgo-o-container5 {
+  text-align: center;
+  width: 261px;
+  height: 92px;
+  display: inline-block;
+  position: absolute;
+  top: 1000px;
+  left: 486px;
+}
+
+.o-csgo-o-container5 {
+  top: 1468px;
+}
+
+.o-csgo-o-container6, .o-csgo-o-container7, .o-csgo-o-container8, .o-csgo-o-container9 {
+  text-align: center;
+  width: 261px;
+  height: 92px;
+  display: inline-block;
+  position: absolute;
+  top: 1000px;
+  left: 783px;
+}
+
+.o-csgo-o-container7, .o-csgo-o-container8, .o-csgo-o-container9 {
+  left: 1080px;
+}
+
+.o-csgo-o-container8, .o-csgo-o-container9 {
+  top: 532px;
+  left: 783px;
+}
+
+.o-csgo-o-container9 {
+  left: 1080px;
+}
+
+.group-child48 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 89px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.logo-mixi-tt-1-icon3 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 89px;
+  height: 53px;
+  position: absolute;
+  top: 18px;
+  left: 17px;
+}
+
+.home5 {
+  justify-content: center;
+  align-items: center;
+  width: 233px;
+  height: 60px;
+  display: none;
+  position: absolute;
+  top: -23px;
+  left: -86px;
+}
+
+.home-wrapper3 {
+  overflow: hidden;
+}
+
+.frame-wrapper47, .frame-wrapper48, .frame-wrapper49, .home-wrapper3 {
+  width: 61px;
+  height: 14px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.frame-wrapper47, .frame-wrapper48 {
+  top: 8px;
+  left: 4px;
+}
+
+.frame-wrapper47 {
+  width: 69px;
+  height: 34px;
+  top: -9px;
+}
+
+.danh-mc-sn6, .frame-wrapper46 {
+  width: 77px;
+  height: 29px;
+  position: absolute;
+  top: 39px;
+  left: 301px;
+}
+
+.danh-mc-sn6 {
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  width: 233px;
+  height: 60px;
+  display: flex;
+  top: -15px;
+  left: -6px;
+}
+
+.danh-mc-sn-phm-wrapper1 {
+  width: 221px;
+  height: 34px;
+  position: absolute;
+  top: 0;
+  left: -16px;
+  overflow: hidden;
+}
+
+.frame-wrapper50, .thng-bo3 {
+  width: 189px;
+  height: 30px;
+  position: absolute;
+  top: 30px;
+  left: 454px;
+}
+
+.thng-bo3 {
+  justify-content: center;
+  align-items: center;
+  width: 233px;
+  height: 60px;
+  display: flex;
+  top: -13px;
+  left: -55px;
+}
+
+.frame-inner, .thng-bo-wrapper1 {
+  width: 123px;
+  height: 32px;
+  position: absolute;
+  top: 28px;
+  left: 720px;
+  overflow: hidden;
+}
+
+.frame-inner {
+  object-fit: cover;
+  width: 56px;
+  height: 56px;
+  top: 6px;
+  left: 10px;
+}
+
+.frame-wrapper51, .paper-bag-icon3 {
+  width: 72px;
+  height: 72px;
+  position: absolute;
+  top: 5px;
+  left: 1357px;
+}
+
+.paper-bag-icon3 {
+  object-fit: cover;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  top: 24px;
+  left: 1293px;
+}
+
+.rectangle-parent46 {
+  width: 1440px;
+  height: 89px;
+  position: relative;
+}
+
+.menu3 {
+  text-align: center;
+  font-size: var(--font-size-mid);
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.male-user-icon3, .trang-ch3 {
+  cursor: pointer;
+  position: absolute;
+}
+
+.male-user-icon3 {
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  top: 17px;
+  left: 1355px;
+}
+
+.trang-ch3 {
+  font-size: var(--font-size-4xs);
+  align-items: center;
+  width: 56px;
+  height: 14px;
+  display: flex;
+  top: 133px;
+  left: 107px;
+}
+
+.line-icon {
+  object-fit: contain;
+  width: 3px;
+  height: 8px;
+  position: absolute;
+  top: 135px;
+  left: 167px;
+}
+
+.ca-hng3, .home6, .o-csgo23 {
+  align-items: center;
+  height: 12px;
+  display: flex;
+  position: absolute;
+  top: 135px;
+}
+
+.ca-hng3 {
+  white-space: pre-wrap;
+  cursor: pointer;
+  width: 76px;
+  left: 165px;
+}
+
+.home6, .o-csgo23 {
+  width: 91px;
+  left: 243px;
+}
+
+.home6 {
+  justify-content: center;
+  width: 170px;
+  height: 30px;
+  top: -5px;
+  left: -60px;
+}
+
+.home-wrapper4 {
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-mid);
+  width: 49px;
+  height: 21px;
+  position: absolute;
+  top: 35px;
+  left: 315px;
+  overflow: hidden;
+}
+
+.o-ba-l-wrapper5, .o-csgo-wrapper5, .o-mixi-wrapper5 {
+  cursor: pointer;
+  width: 68px;
+  height: 30px;
+  position: absolute;
+  left: 107px;
+  overflow: hidden;
+}
+
+.o-mixi-wrapper5 {
+  font-size: var(--font-size-xs);
+  color: var(--color-teal-200);
+  top: 303px;
+}
+
+.o-ba-l-wrapper5, .o-csgo-wrapper5 {
+  font-size: var(--font-size-sm);
+  top: 260px;
+}
+
+.o-ba-l-wrapper5 {
+  font-size: var(--font-size-xs);
+  color: var(--color-teal-200);
+  top: 217px;
+}
+
+.trang-o-csgo {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-arial);
+  width: 100%;
+  height: 2019px;
+  position: relative;
+}
+/*# sourceMappingURL=t-r-a-n-g-o-csgo.3e3a17be.css.map */
